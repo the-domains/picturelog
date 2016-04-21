@@ -2,12 +2,13 @@ name: picturelog
 favicon: null
 layout_spectrum: 0.45538124395534396
 typography_spectrum: 0.3015290934126824
+title: 'picturelog, a story in pictures'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-284671-14
   facebook: null
   twitter: null
 opengraph:
