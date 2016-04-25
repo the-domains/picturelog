@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[picturelog]]></title>
-        <description><![CDATA[picturelog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[picturelog, a story in pictures]]></title>
+        <description><![CDATA[picturelog, a story in pictures]]></description>
+        <link>http://picturelog.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 15:07:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 13:46:49 GMT</lastBuildDate>
+        <atom:link href="http://picturelog.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[a story in pictures]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92976480-e2fa-457f-8579-a31826cae0c9.jpg">]]></description>
-            <link>undefineda-story-in-pictures/index.html</link>
+            <link>http://picturelog.com/a-story-in-pictures/index.html</link>
             <guid isPermaLink="false">cb4bc7e9-02d5-4a9c-8bba-cef5befa2c93</guid>
-            <pubDate>Thu, 21 Apr 2016 15:07:03 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 13:46:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
